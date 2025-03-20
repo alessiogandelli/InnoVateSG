@@ -1,4 +1,10 @@
 {
     "name": "Lo zio",
-    "description": "il tuo fra che ti chiama sempre zio"
+    "description": "il tuo fra che ti chiama sempre zio",
+    "version": "0.0.1",
+    "author_name": "d8eea",
+    "author_url": "https://studybuddy.it",
+    "plugin_url": "https://github.com/studybuddydev/studybuddy-cat-plugin",
+    "tags": "zio",
+    "thumb": "https://fastly.picsum.photos/id/621/200/300.jpg?hmac=GgxwZqdPsVQwlM2QhfHoLU8gZ7uo_PP6oD4KmIq-ino"
 }
